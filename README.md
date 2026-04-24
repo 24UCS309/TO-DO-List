@@ -1,12 +1,81 @@
-# React + Vite
+# 📝 To-Do List Application (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
 
-Currently, two official plugins are available:
+This is a **basic To-Do List Web Application** built using **HTML, CSS, and JavaScript**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It helps users manage daily tasks in a simple and interactive way.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+* ➕ Add new tasks
+* ❌ Delete tasks
+* ✅ Mark tasks as completed
+* 📋 View all tasks
+
+---
+
+## 🛠️ Technologies Used
+
+* **HTML** – Structure
+* **CSS** – Styling
+* **JavaScript** – Functionality
+
+---
+
+## 📂 Project Structure
+
+```id="projstruct"
+TODO_APP/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+```
+
+---
+
+## ⚙️ How to Run
+
+1. Download or clone the project
+2. Open `index.html` in your browser
+
+---
+
+## 🧪 Sample Flow
+
+```id="flow"
+1. User enters a task
+2. Clicks Add button
+3. Task is displayed in list
+4. User can mark complete or delete it
+```
+
+---
+
+## ⚠️ Important Notes
+
+* This is a **frontend-only project**
+* No database or backend is used
+* Data is not stored permanently (refresh will clear tasks)
+
+---
+
+## 📈 Future Improvements
+
+* 💾 Add Local Storage support
+* ✏️ Edit tasks
+* 🔎 Filter tasks
+* 📱 Responsive design
+
+---
+
+## 👩‍💻 Author
+
+**Your Name**
+
+---
+
+⭐ If you like this project, give it a star on GitHub!
